@@ -25,8 +25,9 @@ into older JS, at a cost to both bandwidth and execution speed of 6x or more.
 - 70% of web traffic comes from browsers that support ES2021.
 
 ## Package Exports
-The `exports` field in a `package.json` file was first supported in Node v12.8,
-which support ES2019 syntax.
+The [`exports`](https://webpack.js.org/guides/package-exports/) field in a
+`package.json` file was first supported in Node v12.8, which support ES2019
+syntax.
 
 ### Modern-only `package.json`
 ```js
