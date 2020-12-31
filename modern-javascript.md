@@ -6,20 +6,20 @@ Legacy JavaScript is considered ES5 (from 2009).  Older versions are obsolete.
 
 ## Adoption
 95% of browser traffic supports:
-- `class`
-- `=>` (arrow functions)
-- `function*`/`yield*` (generators)
-- `const`/`let` (block scoping)
-- object shorthand
-- `async`/`await`
+- [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes): [`class`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class)
+- [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions): `=>`
+- [Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator): [`function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)/[`yield*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*)
+- [Block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block) [scoping](https://developer.mozilla.org/en-US/docs/Glossary/Scope): [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)/[`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+- [object shorthand](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer): `{a, b, c}`
+- [`async`/`await`](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
 94% of browser traffic supports:
-- destructuring
-- rest/spread
+- [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [rest](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)/[spread](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 For the remaining 6% of traffic that doesn't support modern JS, we can
-transpile modern JS into older JS, at a cost to both bandwidth and execution
-speed of 6x or more.
+[transpile](https://en.wikipedia.org/wiki/Source-to-source_compiler) modern JS
+into older JS, at a cost to both bandwidth and execution speed of 6x or more.
 
 - 95% of web traffic comes from browsers that support ES2017.
 - 70% of web traffic comes from browsers that support ES2021.
