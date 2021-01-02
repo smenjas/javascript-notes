@@ -40,6 +40,8 @@ JSON's motto is: Use the right tool for the right job.
 
 ## Where did the idea come from that data should be represented by a document format.
 - [RUNOFF](https://en.wikipedia.org/wiki/TYPSET_and_RUNOFFf)
+- [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language)
+- [Scribe](https://en.wikipedia.org/wiki/Scribe_%28markup_language%29)
 
 ## Resources
 - [Douglas Crockford: The JSON Saga](https://youtu.be/-C-JoyNuQJs)
