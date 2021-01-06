@@ -50,7 +50,7 @@ document.addEventListener('click', function (event) {
 ```js
 document.addEventListener('DOMContentLoaded', function(event) {
   // The DOM is ready!
-})
+});
 ```
 
 ## Resources
