@@ -14,6 +14,8 @@ My notes on the [JavaScript programming language](https://en.wikipedia.org/wiki/
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 - [Exploring ES6](https://exploringjs.com/es6/)
 - [BDD in JavaScript: Getting Started with Cucumber and Gherkin](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
+- [Building Simple REST API with Express.js and MySQL](https://dev.to/nurofsun/building-simple-rest-api-with-express-js-and-mysql-140p)
+- [Build Node.js Rest APIs with Express & MySQL](https://bezkoder.com/node-js-rest-api-express-mysql/)
 
 ## JavaScript Runtimes
 - [Node.js](https://nodejs.org/en/about/)
