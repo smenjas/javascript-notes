@@ -44,6 +44,7 @@ JSON's motto is: Use the right tool for the right job.
 - [Scribe](https://en.wikipedia.org/wiki/Scribe_%28markup_language%29)
 
 ## Resources
+- [json.org](https://www.json.org/json-en.html)
 - [Douglas Crockford: The JSON Saga](https://youtu.be/-C-JoyNuQJs)
 
 ## JSON Specification
