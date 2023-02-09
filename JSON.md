@@ -9,11 +9,11 @@
 JSON is the intersection of modern programming languages.  All modern languages
 have:
 - simple values (Boolean, number, string)
-- a sequence of value (array, vector, list)
+- a sequence of values (array, vector, list)
 - a collection of named values (object, record, struct, hash, property list)
 
 Other data interchange formats try to be a union of all data types, which is a
-huge mess.  JSON is very simple, and so it eventually became more popular with
+huge mess.  JSON is very simple, and so eventually it became more popular with
 developers than XML.
 
 `JSON.parse` became available in ES5 from 2009.
@@ -38,7 +38,7 @@ XML's motto is: One tool to rule them all.
 
 JSON's motto is: Use the right tool for the right job.
 
-## Where did the idea come from that data should be represented by a document format.
+## Where did the idea come from that data should be represented by a document format?
 - [RUNOFF](https://en.wikipedia.org/wiki/TYPSET_and_RUNOFFf)
 - [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language)
 - [Scribe](https://en.wikipedia.org/wiki/Scribe_%28markup_language%29)
@@ -47,6 +47,8 @@ JSON's motto is: Use the right tool for the right job.
 - [Douglas Crockford: The JSON Saga](https://youtu.be/-C-JoyNuQJs)
 
 ## JSON Specification
+Here is the [McKeeman form for JSON](https://www.crockford.com/mckeeman.html):
+
 ### json
 - element
 
