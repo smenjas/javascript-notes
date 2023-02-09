@@ -10,3 +10,6 @@ Good ideas:
 Bad ideas:
 
 - global variables
+
+> Generally, the craft of programming is the factoring of a set of requirements
+> into a set of functions and data structures.
